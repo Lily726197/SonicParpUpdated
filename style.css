@@ -1,0 +1,53 @@
+body { /*I changed the background color. */
+    background-color: navy;
+}
+
+header { /* I changed the text colors and fonts. */
+    color:royalblue;
+    font-family:'Courier New', Courier, monospace;
+    font-size:40px;
+    font-weight:bold;
+}
+
+h2 {
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li, a {
+    color:white;
+}
+
+.pl1 {
+    color:chartreuse;
+}
+
+.pl2 {
+    color:yellow;
+}
+
+.pl3 {
+    color:red;
+}
+
+.character {
+    font-style:italic;
+    font-weight:bold;
+    font-size: 25px;
+}
+
+#sonic {
+    color:lightskyblue;
+}
+
+#tails {
+    color:orange;
+}
+
+#amy {
+    color:pink;
+}
+
+#cream {
+    color:cornsilk;
+}
